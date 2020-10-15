@@ -15,7 +15,7 @@ const plugin: JupyterFrontEndPlugin<void> = {
     const style = '@lin26/jupyterlab_blackpink/index.css';
 
     manager.register({
-      name: 'JupyterLab BLΛƆKPIИK',
+      name: 'JupyterLab Blackpink',
       isLight: true,
       load: () => manager.loadCSS(style),
       unload: () => Promise.resolve(undefined)

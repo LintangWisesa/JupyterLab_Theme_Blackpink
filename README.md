@@ -25,7 +25,7 @@ Hello, data enthusiasts who are also _Blinks_! Do you work with JupyterLab every
     ```bash
     $ jupyter lab
     ```
-- Go to _Settings > JupyterLab Theme_ then choose *JupyterLab BLΛƆKPIИK*. Aye aye~ 😇
+- Go to _Settings > JupyterLab Theme_ then choose *JupyterLab Blackpink*. Aye aye~ 😇
 
 <hr>
 
